@@ -5,7 +5,8 @@ import { Trans } from '@lingui/macro'
 import { I18nProvider } from '@lingui/react'
 import { i18n } from '@lingui/core'
 
-import { da, en } from 'make-plural/plurals'
+// Not needed with lingui4?
+// import { da, en } from 'make-plural/plurals'
 
 i18n.loadLocaleData('da', { plurals: da })
 i18n.loadLocaleData('en', { plurals: en })
