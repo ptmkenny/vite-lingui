@@ -8,9 +8,6 @@ import { i18n } from '@lingui/core'
 // Not needed with lingui4?
 // import { da, en } from 'make-plural/plurals'
 
-i18n.loadLocaleData('da', { plurals: da })
-i18n.loadLocaleData('en', { plurals: en })
-
 type Local = 'da' | 'en'
 
 /**
