@@ -41,6 +41,9 @@ function App() {
             <Trans>Hello Vite + React + LinguiJS!</Trans>
           </p>
           <p>
+            <Trans id="empty_string"></Trans>
+          </p>
+          <p>
             <button
               type="button"
               onClick={() => setCount((count) => count + 1)}
