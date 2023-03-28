@@ -42,6 +42,7 @@ function App() {
           </p>
           <p>
             <Trans id="empty_string"></Trans>
+            <Trans id="empty_string.works_on_lingui_3">{}</Trans>
           </p>
           <p>
             <button

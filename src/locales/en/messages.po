@@ -13,12 +13,17 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+#: src/App.tsx:45
+#, explicit-id
+msgid "empty_string.works_on_lingui_3"
+msgstr "empty_string.works_on_lingui_3"
+
 #: src/App.tsx:44
 #, explicit-id
 msgid "empty_string"
 msgstr "empty_string"
 
-#: src/App.tsx:56
+#: src/App.tsx:57
 msgid "Change language to {nextLanguage}"
 msgstr "Change language to {nextLanguage}"
 
@@ -26,10 +31,10 @@ msgstr "Change language to {nextLanguage}"
 msgid "Hello Vite + React + LinguiJS!"
 msgstr "Hello Vite + React + LinguiJS!"
 
-#: src/App.tsx:51
+#: src/App.tsx:52
 msgid "The count is: {count}"
 msgstr "The count is: {count}"
 
-#: src/App.tsx:59
+#: src/App.tsx:60
 msgid "This is a translated message"
 msgstr "This is a translated message"
